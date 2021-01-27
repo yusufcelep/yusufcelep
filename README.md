@@ -13,6 +13,7 @@
 
 **Connect with me:**
 <p align="left">
+ <a href="mailto:yusufcelep8@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/muhammed-celep/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="https://medium.com/@muhammedcelep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="https://open.spotify.com/user/u50e8apeve757vbv0qod5zi74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify" height="40" width="40" /></a> &nbsp;&nbsp;
