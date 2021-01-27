@@ -1,4 +1,4 @@
-# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm Muhammed Yusuf Celep, 
 
@@ -29,4 +29,4 @@
 
 ---
 
-From [YusufCelep](https://github.com/YusufCelep) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25">
+From [yusufcelep](https://github.com/YusufCelep) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25">
