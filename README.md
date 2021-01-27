@@ -28,4 +28,4 @@
 
 ---
 
-From [YusufCelep](https://github.com/YusufCelep) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+From [YusufCelep](https://github.com/YusufCelep) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25">
