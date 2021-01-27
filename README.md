@@ -2,8 +2,10 @@
 
 ### I'm Muhammed Yusuf Celep, 
 
+#### Currently, I am a Full Stack Engineer with a history of being an SDET/QA Automation Engineer and IT Specialist. The reason I hopped around so much is because I love exploring and learning about the world, who knew that learning could feel like staring at the night sky long enough you are able to make out pictures? I feel like I create new constallations with each new thing and it's one of my most treasured feelings.
 
-
+#### Fun Fact About Me:
+##### I have a very oddly specific memorization of Spongebob episodes for some reason...
  
  **Languages and Frameworks:**
 <p align="left">
