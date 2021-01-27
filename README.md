@@ -2,12 +2,11 @@
 
 ### I'm Muhammed Yusuf Celep, 
 
-#### Currently, I am a Full Stack Engineer with a history of being an SDET/QA Automation Engineer and IT Specialist. The reason I hopped around so much is because I love exploring and learning about the world, who knew that learning could feel like staring at the night sky long enough you are able to make out pictures? I feel like I create new constallations with each new thing and it's one of my most treasured feelings.
+#### Currently, I am a Full Stack Engineer with a history of being an SDET/QA Automation Engineer and IT Specialist. The reason I hopped around so much is because I love exploring and learning about the world, who knew that learning could feel like staring at the night sky long enough you are able to make out pictures? I feel like I create new constallations with each new thing and it's one of my most treasured feelings. I've lot's of stories to tell, let us laugh over some drinks :)
 
-**Fun Fact About Me:**
-I have a very oddly specific memorization of Spongebob episodes for some reason...
+**Fun Fact About Me:** <p>I have a very oddly specific memorization of Spongebob episodes for some reason...</p>
  
- **Languages and Frameworks:**
+ **Languages:**
 <p align="left">
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="Java" width="40" height="40" /></code>&nbsp;
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="JavaScript" width="40" height="40" /></code>&nbsp;
