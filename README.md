@@ -1,10 +1,11 @@
 # Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm Muhammed Yusuf Celep, 
+### One-Man IT Department, 
 
-#### Currently, I am a Full Stack Engineer with a history of being an SDET/QA Automation Engineer and IT Specialist. The reason I hopped around so much is because I love exploring and learning about the world, who knew that learning could feel like staring at the night sky long enough you are able to make out pictures? I feel like I create new constallations with each new thing and it's one of my most treasured feelings. I've lot's of stories to tell, let us laugh over some drinks :)
+#### My Journey:
+QA/SDET Automation Engineer -> Information Technology Specialist -> Full-Stack Software Engineer -> Cloud Consultant
 
-**Fun Fact About Me:** I have a very oddly specific memorization of Spongebob episodes for some reason...
+**Fun Fact About Me:** My dream job was to become a Young Adults/Childrens Book Author
  
  **Languages:**
 <p align="left">
